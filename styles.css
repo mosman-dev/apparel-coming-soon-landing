@@ -195,6 +195,7 @@ img.hero-mobile-img {
 	}
 
 	.content-wrapper {
+		height: 100%;
 		padding: 40px;
 		align-items: center;
 		text-align: center;
