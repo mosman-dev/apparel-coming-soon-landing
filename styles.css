@@ -180,6 +180,7 @@ img.hero-mobile-img {
 		overflow-x: hidden;
 	}
 	.left-container {
+		height: 100%;
 		padding: 0;
 	}
 	.right-container {
