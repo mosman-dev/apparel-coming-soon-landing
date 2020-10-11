@@ -175,8 +175,8 @@ img.hero-mobile-img {
 }
 
 @media only screen and (max-width: 1024px) {
-	body {
-		height: unset;
+	.main-container {
+		overflow: hidden;
 	}
 	.left-container {
 		padding: 0;
@@ -186,8 +186,7 @@ img.hero-mobile-img {
 	}
 	img.hero-mobile-img {
 		display: flex;
-		width: 100%;
-		height: 100%;
+		width: 100vw;
 	}
 
 	.title-bar {
