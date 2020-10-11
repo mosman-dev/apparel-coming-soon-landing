@@ -176,6 +176,7 @@ img.hero-mobile-img {
 
 @media only screen and (max-width: 1024px) {
 	.main-container {
+		min-height: 100%;
 		overflow: hidden;
 	}
 	.left-container {
